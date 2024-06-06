@@ -1,0 +1,24 @@
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\bin\Debug\System.ValueTuple.dll
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\bin\Debug\System.ValueTuple.xml
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CopyComplete
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\2nd term 4th Level\Security\Security Package 2022\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\bin\Debug\System.ValueTuple.dll
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\bin\Debug\System.ValueTuple.xml
+F:\2nd term 4th Level\Security\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CopyComplete
